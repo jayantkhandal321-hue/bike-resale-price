@@ -98,7 +98,7 @@ pip install streamlit pandas scikit-learn joblib
 ---
 
 ## 👨‍💻 Author
-**Developed by:** *[Your Name]*  
+**Developed by:** *[JAYANT KHANDAL]*  
 **Language:** Python 🐍  
 **Framework:** Streamlit  
 **ML Library:** scikit-learn  
@@ -106,4 +106,5 @@ pip install streamlit pandas scikit-learn joblib
 ---
 
 ### ⭐ If you like this project, don’t forget to star the repo on GitHub!
+
 
